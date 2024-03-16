@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6a5d6346-3bd6-4be9-8fba-0d3466448601" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Kotlin Enum" />
+        <option value="Kotlin Class" />
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2bLNlZTnZsL8G6KorC1QAoL2jO1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainB3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainBT4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainBeverage.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainBieuThuc.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainCC1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainCC2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainComputer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainData.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainHD.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainVote.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Maincoffee.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MysingletonMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.mainVitquay.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/kientructhietke/linhlinh123/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.MainB3">
+    <configuration name="MainB3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="File.MainB3" />
+      <module name="linhlinh123" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="File.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainBeverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="decorator.MainBeverage" />
+      <module name="linhlinh123" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="decorator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainBieuThuc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="b1.MainBieuThuc" />
+      <module name="linhlinh123" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="b1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A6_BuilderPattern.MainData" />
+      <module name="linhlinh123" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="A6_BuilderPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainHD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A1_BuilderPattern.MainHD" />
+      <module name="linhlinh123" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="A1_BuilderPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainB3" />
+        <item itemvalue="Application.MainData" />
+        <item itemvalue="Application.MainHD" />
+        <item itemvalue="Application.MainBieuThuc" />
+        <item itemvalue="Application.MainBeverage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-f644763e9732-c0c073db" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a5d6346-3bd6-4be9-8fba-0d3466448601" name="Changes" comment="" />
+      <created>1705990557072</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705990557072</updated>
+      <workItem from="1705990559881" duration="11000" />
+      <workItem from="1705990596033" duration="35000" />
+      <workItem from="1705990662205" duration="23000" />
+      <workItem from="1705990697383" duration="278000" />
+      <workItem from="1705991433916" duration="7423000" />
+      <workItem from="1708409416057" duration="8360000" />
+      <workItem from="1708735268572" duration="10905000" />
+      <workItem from="1709017392315" duration="5473000" />
+      <workItem from="1709621036120" duration="6870000" />
+      <workItem from="1709944055168" duration="22795000" />
+      <workItem from="1710489425048" duration="43000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/File/MainB3.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
