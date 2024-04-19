@@ -21,7 +21,7 @@ public class Book {
         builder.append("Tựa đề").append("\t").append(tuade).append("\n")
                 .append("Tác giả").append("\t").append(tacgia).append("\n")
                 .append("Số trang").append("\t").append(sotrang).append("\n")
-                .append("Chương").append("\t").append(chuongs).append("\n");
+                .append("Các chương").append("\t").append("\n");
         int i = 1;
         for (String c: chuongs)
             builder.append(i++).append(", ").append(c).append("\n");

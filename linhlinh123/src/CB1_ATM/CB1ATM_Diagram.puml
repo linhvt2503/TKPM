@@ -1,0 +1,27 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+abstract class ATM{
+    - int menhGia;
+    + ATM thisMenhGiaThapHon(ATM sim);
+    + void rutTien(int soTien);
+
+}
+class menhGiaThapNhat{
+    + void rutTien(int soTien);
+}
+
+ATM <|--menhGiaATM
+menhGiaATM --> ATM : menhGiaThapHon
+ATM <|--menhGiaThapNhat
+Main ..> "*" ATM
+
+note right of ATM::rutTien
+    tính số tờ, nếu > 0 --> in ra số tờ
+    tính số tiền dư, nếu > 0
+    chuyển tiền dư cho thành phần sau
+end note
+note left of menhGiaThapNhat::rutTien
+    tính và in số tờ
+end note
+@enduml

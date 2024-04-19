@@ -1,0 +1,31 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+abstract class BNode{
+    int value
+    +abstract void addL(BNode n);
+    +abstract void addP(BNode n);
+    +abstract void removeL((BNode n);
+    +abstract void removeP((BNode n);
+    +abstract String duyet();
+}
+BNode <|-- InnerNode
+BNode <|-- Leaft
+InnerNode --> BNode:left
+InnerNode --> BNode:right
+
+class InnerNode{
+    +String duyet()
+}
+note right of InnerNode::duyet()
+    Phương thức duyệt in các giá trị trong cây
+    theo thứ tự NLR
+    StringBuilder builder = new StringBuilder();
+    buider.append(value);
+    if(left != null)
+        builder.append("\n")
+                .append(left.duyet());
+        ....
+    return builder.toString();
+end note
+@enduml
